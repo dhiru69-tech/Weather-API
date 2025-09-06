@@ -1,5 +1,5 @@
 
-
+ <img src="https://github.com/dhiru69-tech/Weather-API/blob/bc133921df3ea2a74fcf8aad51dc2272d2b926be/.github/typing_effect.gif" />
 
 
 # ⛅ Weather App — Real-Time • Animated • Responsive
