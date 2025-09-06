@@ -14,6 +14,8 @@
 ---
 
 ## 🎬 Preview
+🎥 Click here to  Preview : https://dhiru69-tech.github.io/Weather-API/
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/95e5e18d-c7eb-4b73-a49f-6daad2f2bc1d" />
 
 
