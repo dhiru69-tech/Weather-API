@@ -9,9 +9,10 @@
 
 ---
 
-```
-## 🎬 Preview  
-```
+## 🎬 Preview
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/95e5e18d-c7eb-4b73-a49f-6daad2f2bc1d" />
+
+
 <p align="center">
   <img src="assets/header.gif" alt="Weather App Animated Banner" width="700"/>
 </p>
@@ -45,8 +46,8 @@
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/weather-app.git
-cd weather-app
+get clone https://github.com/dhiru69-tech/Weather-API.git
+cd Weather-API
 
 # 2. Install
 npm install
